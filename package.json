@@ -1,0 +1,25 @@
+{
+  "name": "learn-vitest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "vitest",
+    "coverage": "vitest run --coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hongbusi/learn-vitest.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Hongbusi/learn-vitest/issues"
+  },
+  "homepage": "https://github.com/Hongbusi/learn-vitest#readme",
+  "devDependencies": {
+    "vite": "^2.9.8",
+    "vitest": "^0.10.2"
+  }
+}
